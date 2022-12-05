@@ -38,6 +38,6 @@ public class Solution {
     }
 
     public static Class getClassName() {
-        return null;  //your class name
+        return new Shop ().getClass();  //your class name
     }
 }
